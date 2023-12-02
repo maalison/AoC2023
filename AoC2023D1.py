@@ -37,15 +37,3 @@ for i in my_file:
     num = ''
     input = []
     print(sum)
-# for i in my_file:
-#     for j in i:
-#         if j.isdigit():
-#             input.append(j)
-#             break
-#     for j in i[-1::-1]:
-#         if j.isdigit():
-#             input.append(j)
-#             break
-
-
-# print(input)
